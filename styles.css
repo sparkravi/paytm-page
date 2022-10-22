@@ -32,6 +32,7 @@
 .Recharge{
 	font-size: 20px;
 	margin-bottom: 3%;
+	margin-top: 7%;
 }
 .class{
 	font-size: 18px;
@@ -45,11 +46,13 @@
 .button:hover{
 background-color: white;
 color: black;
+margin-top: 5%;
 }
 
 .India{
-	font-size: 40px;
+	font-size: 50px;
 	margin-top: 3%;
+	margin-top: 5%;
 }
 .sec1{
 	display: flex;

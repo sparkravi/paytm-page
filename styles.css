@@ -1,0 +1,58 @@
+*{
+	margin: 0%;
+	/*border: 1px solid red;*/
+}
+.navbar a{
+	text-align: center;
+	font-size: 19px;
+	text-decoration: none;
+	color: black;
+	margin-left: 4.5%;
+}
+.navbar{
+	border: 1px;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+.navbar img{
+	vertical-align: middle;
+}
+#sign{
+	background-color: #00baf2;
+	color: white;
+	margin-left: 10%;
+	padding: 1%;
+	text-align: center;
+	border-radius: 25px;
+}
+.smile{
+	text-align: center;
+	background-color: lightgrey;
+}
+.Recharge{
+	font-size: 20px;
+	margin-bottom: 3%;
+}
+.class{
+	font-size: 18px;
+}
+.button{
+	border-radius: 70px;
+	background-color: black;
+	color: white;
+	padding: 1%;
+}
+.button:hover{
+background-color: white;
+color: black;
+}
+
+.India{
+	font-size: 40px;
+	margin-top: 3%;
+}
+.sec1{
+	display: flex;
+	justify-content: space-between;
+	padding: 5% 0% 5% 8%;
+}

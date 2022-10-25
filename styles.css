@@ -2,6 +2,9 @@
 	margin: 0%;
 	/*border: 1px solid red;*/
 }
+body {
+	font-family: 'Poppins', sans-serif;
+}
 .navbar a{
 	text-align: center;
 	font-size: 19px;
@@ -20,42 +23,122 @@
 #sign{
 	background-color: #00baf2;
 	color: white;
-	margin-left: 10%;
-	padding: 1%;
+	margin-left: 5%;
+	padding: 0.6%;
 	text-align: center;
 	border-radius: 25px;
 }
 .smile{
 	text-align: center;
 	background-color: lightgrey;
+	padding: 1%;
 }
 .Recharge{
 	font-size: 20px;
-	margin-bottom: 3%;
+	margin-bottom: 2%;
 	margin-top: 7%;
 }
 .class{
 	font-size: 18px;
 }
 .button{
-	border-radius: 70px;
+	border-radius: 50px;
 	background-color: black;
 	color: white;
-	padding: 1%;
+	padding: 2%;
+	margin-top: 2%;
 }
 .button:hover{
 background-color: white;
 color: black;
 margin-top: 5%;
+padding: 1%;
 }
 
 .India{
 	font-size: 50px;
 	margin-top: 3%;
-	margin-top: 5%;
+	margin-bottom: 1%;
 }
 .sec1{
 	display: flex;
 	justify-content: space-between;
 	padding: 5% 0% 5% 8%;
 }
+.sec3{
+	background-color: #00baf2;
+}
+.sec3div1 a{
+	text-decoration: none;
+}
+.sec3div1 {
+	text-decoration: none;
+	justify-content: space-between;
+	display: flex;
+	margin-left: 4.5%;
+	background-color: sky blue;
+	padding-top: 5%;
+	padding-bottom: 6%;
+	padding: 2%,1%,1%,2%;
+}
+.sec3div1 :hover{
+	background-color: #3796b3;
+}
+.paytm{
+	font-size: 33px;
+	margin-left: 4.5%;
+	margin-top: 5%;
+}
+.sec4{
+	background-color: #042e6f;
+}
+.sec4div1{
+	text-decoration: none;
+	display: flex;
+	margin-left: 4.5%;
+	padding-top: 5%;
+	padding-bottom: 6%;
+}
+.book{
+	font-size: 33px;
+	margin-left: 4.5%;
+}
+.sec5{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 5%;
+	border-radius: 50px;
+}
+.payment{
+	font-size: 50px;
+}
+.img{
+	margin-left: 15%;
+	margin-bottom: 3%;
+	margin-top: 4%;
+}
+.div{
+	display: flex;
+}
+.sec5 h1{
+	font-size: 40px;
+	margin-bottom: 2%;
+	margin-left:20%;
+}
+.se5 h2{
+	font-size: 40px;
+	margin-left:20%%;
+}
+.Load{
+	margin-left: 20%;
+	font-size: 19px;
+}
+.button{
+	border-radius: 50px;
+	background-color: black;
+	color: white;
+	padding: 2%;
+	margin-top: 7%;
+	margin-left: 20%;
+	}
+

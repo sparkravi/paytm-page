@@ -47,6 +47,7 @@ body {
 	color: white;
 	padding: 2%;
 	margin-top: 2%;
+	margin-right: 2%;
 }
 .button:hover{
 background-color: white;
@@ -83,11 +84,14 @@ padding: 1%;
 }
 .sec3div1 :hover{
 	background-color: #3796b3;
+	margin-left: 0.8%;
 }
-.paytm{
+.sec3 h2{
 	font-size: 33px;
 	margin-left: 4.5%;
 	margin-top: 5%;
+	margin-bottom: 1%;
+
 }
 .sec4{
 	background-color: #042e6f;
@@ -95,9 +99,11 @@ padding: 1%;
 .sec4div1{
 	text-decoration: none;
 	display: flex;
-	margin-left: 4.5%;
+	margin-left: 0.8%;
+	margin-right: 0.8%;
 	padding-top: 5%;
-	padding-bottom: 6%;
+	padding-bottom: 8%;
+	padding: 7%;
 }
 .book{
 	font-size: 33px;
@@ -117,6 +123,12 @@ padding: 1%;
 	margin-bottom: 3%;
 	margin-top: 4%;
 }
+.sec5{
+	background-color: rgba(239, 239, 239, 0.6);
+}
+.sec5div1{
+	border: 1px solid whitesmoke;
+}
 .div{
 	display: flex;
 }
@@ -131,7 +143,7 @@ padding: 1%;
 }
 .Load{
 	margin-left: 20%;
-	font-size: 19px;
+	font-size: 20px;
 }
 .button{
 	border-radius: 50px;
@@ -140,5 +152,61 @@ padding: 1%;
 	padding: 2%;
 	margin-top: 7%;
 	margin-left: 20%;
+	}
+	.sec6{
+		border: 1px solid whitesmoke;
+		margin-top: 5%;
+		display: flex;
+		justify-content: space-between;
+	}
+	.sec6div1 h1{
+		margin-left: 20.5%;
+	}
+	.pay{
+		margin-left: 20.5%;
+		font-size: 19px;
+		margin-bottom: 1%;
+	}
+	.UPI{
+		margin-left: 20.5%;
+	}
+	.button{
+	border-radius: 50px;
+	background-color: black;
+	color: white;
+	padding: 3%;
+	margin-top: 7%;
+	margin-left: 20%;
+	}
+	.sec7{
+		border: 1px solid whitesmoke;
+		margin-top: 5%;
+		display: flex;
+		justify-content: space-between;
+	}
+	.sec7div1 h1{
+		margin-left: 20.5%;
+		font-size: 37px;
+		margin-bottom: 1%;
+	}
+	.with{
+		margin-left: 20.5%;	
+		margin-bottom: 2%;
+	}
+	.image{
+		margin-left: 19.5%;
+		margin-bottom: 4%;	
+	}
+	.sec7 button{
+	border-radius: 50px;
+	background-color: #000080;
+	color: white;
+	padding: 3%;
+	margin-top: 7%;
+	margin-left: 20.5%;
+	}
+	.button :hover{
+		background-color: skyblue;
+		color: white;
 	}
 

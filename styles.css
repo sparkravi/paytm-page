@@ -4,6 +4,7 @@
 }
 body {
 	font-family: 'Poppins', sans-serif;
+	background-color: #e3e1e1;
 }
 .navbar a{
 	text-align: center;
@@ -48,6 +49,7 @@ body {
 	padding: 2%;
 	margin-top: 2%;
 	margin-right: 2%;
+	margin-left: 4.5%;
 }
 .button:hover{
 background-color: white;
@@ -124,10 +126,11 @@ padding: 1%;
 	margin-top: 4%;
 }
 .sec5{
-	background-color: rgba(239, 239, 239, 0.6);
+	border: 1px solid white;
+	background-color: white;
 }
 .sec5div1{
-	border: 1px solid whitesmoke;
+	border: 1px solid white;
 }
 .div{
 	display: flex;
@@ -154,17 +157,21 @@ padding: 1%;
 	margin-left: 20%;
 	}
 	.sec6{
-		border: 1px solid whitesmoke;
+		border: 1px solid white;
+		background-color: white;
 		margin-top: 5%;
 		display: flex;
 		justify-content: space-between;
+		padding: 5%,5%,7%,5%;
 	}
 	.sec6div1 h1{
 		margin-left: 20.5%;
+		font-size: 37px;
+
 	}
 	.pay{
 		margin-left: 20.5%;
-		font-size: 19px;
+		font-size: 18px;
 		margin-bottom: 1%;
 	}
 	.UPI{
@@ -179,10 +186,12 @@ padding: 1%;
 	margin-left: 20%;
 	}
 	.sec7{
-		border: 1px solid whitesmoke;
+		border: 1px solid white;
+		background-color: white;
 		margin-top: 5%;
 		display: flex;
 		justify-content: space-between;
+		padding: 4%,4%,4%,4%;
 	}
 	.sec7div1 h1{
 		margin-left: 20.5%;
@@ -195,7 +204,8 @@ padding: 1%;
 	}
 	.image{
 		margin-left: 19.5%;
-		margin-bottom: 4%;	
+		margin-bottom: 4%;
+		margin-top: 7%;	
 	}
 	.sec7 button{
 	border-radius: 50px;
@@ -208,5 +218,120 @@ padding: 1%;
 	.button :hover{
 		background-color: skyblue;
 		color: white;
+	}
+	.sec8{
+		display: flex;
+		border: 1px solid white;
+		background-color: white;
+		justify-content: space-between;
+		margin-top: 5%;
+	}
+	.hdfc{
+		margin-left: 6%;
+		margin-bottom: 1.8%;
+		margin-top: 4%;
+	}
+	.sec8div1 h1{
+		font-size: 39px;
+		margin-left: 6%;
+		margin-bottom: 1.8%;
+	}
+	.bank{
+		margin-left: 8%;
+		font-size: 19px;
+	}
+	.card{
+		margin-left: 16%;
+		margin-bottom: 1.8%;
+	}
+	.stars{
+		margin-top: 10%;
+	}
+	.sec8div2 h1{
+		font-size: 39px;
+		border: 1px solid white;
+		background-color: white;
+		margin-top: 3%;
+
+	}
+	.select{
+		font-size: 18px;
+		margin-top: 3%;
+	}
+
+
+
+
+
+	@media (max-width: 390px){
+		.navbar a{
+			font-size: 4px;
+		}
+		.smile{
+			font-size: 3px;
+		}
+		.India{
+			font-size: 6px;
+		}
+		.Recharge{
+			font-size: 4px;
+		}
+		.button{
+			font-size: 4px;
+		}
+		.sec3{
+			font-size: 4px;
+		}
+		.sec8div1{
+			font-size: 3px;
+		}
+		.load{
+			font-size: 4px;
+		}
+		.sec5div1 h1{
+			font-size: 4px;
+		}
+		.sec3 h2{
+			font-size: 4px;
+		}
+		.sec4div1{
+			font-size: 4px;
+		}
+		.sec4 h1{
+			font-size: 4px;
+		}
+		.Load{
+			font-size: 3px;
+		}
+		.sec6div1 h1{
+			font-size: 4px;
+		}
+		.pay{
+			font-size: 4px;
+		}
+		.sec7div1 h1{
+			font-size: 4px;
+		}
+		.with{
+			font-size: 4px;
+		}
+		.sec8div1 h1{
+			font-size: 4px;
+		}
+		.bank{
+			font-size: 4px;
+		}
+		.sec8div2{
+			font-size: 4px;
+		}
+		.sec8div2 h1{
+			font-size: 4px;
+		}
+		.select{
+			font-size: 4px;
+		}
+		.sec5div1 h2{
+			font-size: 4px;
+		}
 	}
 

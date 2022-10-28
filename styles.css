@@ -15,8 +15,12 @@ body {
 }
 .navbar{
 	border: 1px;
-	margin-top: 1%;
-	margin-bottom: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	background-color: white;
+	margin-top: 0%;
+	margin-bottom: 0%;
+
 }
 .navbar img{
 	vertical-align: middle;
@@ -36,8 +40,7 @@ body {
 }
 .Recharge{
 	font-size: 20px;
-	margin-bottom: 2%;
-	margin-top: 7%;
+	margin-top: 0%;
 }
 .class{
 	font-size: 18px;
@@ -49,7 +52,7 @@ body {
 	padding: 2%;
 	margin-top: 2%;
 	margin-right: 2%;
-	margin-left: 4.5%;
+	margin-left: 1.5%;
 }
 .button:hover{
 background-color: white;
@@ -67,6 +70,8 @@ padding: 1%;
 	display: flex;
 	justify-content: space-between;
 	padding: 5% 0% 5% 8%;
+	border: 1px solid white;
+	background-color: white;
 }
 .sec3{
 	background-color: #00baf2;
@@ -91,7 +96,7 @@ padding: 1%;
 .sec3 h2{
 	font-size: 33px;
 	margin-left: 4.5%;
-	margin-top: 5%;
+	margin-top: 0%;
 	margin-bottom: 1%;
 
 }
